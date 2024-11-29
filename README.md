@@ -32,75 +32,52 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  To configure the Admin/Analyst login page, navigate to the following URL:
-  [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php).
-</p>
-<br />
+<h3>Configure Roles (for grouping permissions)</h3>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h3>Configure Departments (for grouping permissions)</h3>
 <p>
-  For End Users, the osTicket URL is: [http://localhost/osTicket](http://localhost/osTicket). Users can access the ticketing system and create support requests.
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+
+<h3>Configure Roles (for grouping permissions)</h3>
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<h3>Configure Teams (for grouping permissions)</h3>
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-  To configure roles (grouping permissions), go to the Admin Panel -> Agents -> Roles. You can assign roles like Supreme Admin based on user access levels.
-</p>
-<br />
 
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  To configure departments (ticket visibility), go to Admin Panel -> Agents -> Departments. You can add different departments like SysAdmins, Help Desk, and Networking for visibility control.
-</p>
-<br />
-
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  Configure teams by going to Admin Panel -> Agents -> Teams. Teams allow you to group agents from different departments, such as Online Banking, for ticket assignment and visibility.
-</p>
-<br />
-
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
   To allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings and uncheck "Unregistered users can create tickets." If registration is required, enable "Require registration and login to create tickets."
 </p>
 <br />
-
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  To configure agents (workers), go to Admin Panel -> Agents -> Add New. You can add agents like Jane (Dept: SysAdmins) and John (Dept: Support).
-</p>
-<br />
-
+  
+<h3>Configure Agents (for grouping permissions)</h3>
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  To configure users (customers), go to Agent Panel -> Users -> Add New. You can add users like Karen and Ken to the system for ticketing purposes.
-</p>
-<br />
 
+  <h3>Configure Users (for grouping permissions)</h3>
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+
   To configure Service Level Agreements (SLA), go to Admin Panel -> Manage -> SLA. For example, create SLA categories like:
   - Sev-A: Grace Period: 1 hour, Schedule: 24/7
   - Sev-B: Grace Period: 4 hours, Schedule: 24/7
