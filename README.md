@@ -32,10 +32,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<h3>Configure Roles (for grouping permissions)</h3>
 
+
+
+<h3>Configure Roles (for grouping permissions)</h3>
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://s6.ezgif.com/tmp/ezgif-6-99cfdd78d1-poster.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Configure Departments (for grouping permissions)</h3>
@@ -43,39 +45,20 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src="https://s7.ezgif.com/tmp/ezgif-7-23ca3dc135.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h3>Configure Roles (for grouping permissions)</h3>
+
+<h3>Configure Agents</h3>
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://s7.ezgif.com/tmp/ezgif-7-cc24f5d579.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
-<h3>Configure Teams (for grouping permissions)</h3>
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3> Configure Teams</h3>
+ <img src="https://s6.ezgif.com/tmp/ezgif-6-4613958a27.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-  To allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings and uncheck "Unregistered users can create tickets." If registration is required, enable "Require registration and login to create tickets."
-</p>
-<br />
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
   
-<h3>Configure Agents (for grouping permissions)</h3>
+  <h3>Configure Users</h3>
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-  <h3>Configure Users (for grouping permissions)</h3>
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://s7.ezgif.com/tmp/ezgif-7-ff76ada86a.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
   To configure Service Level Agreements (SLA), go to Admin Panel -> Manage -> SLA. For example, create SLA categories like:
