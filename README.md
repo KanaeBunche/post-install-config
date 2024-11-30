@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Departments (for grouping permissions)</h3>
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://s7.ezgif.com/tmp/ezgif-7-23ca3dc135.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Configure Roles (for grouping permissions)</h3>
