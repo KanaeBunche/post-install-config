@@ -69,7 +69,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://s6.ezgif.com/tmp/ezgif-6-51c91bf8ff.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   To configure Help Topics for when users create a ticket, go to Admin Panel -> Manage -> Help Topics. You can set up categories like:
