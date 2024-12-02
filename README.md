@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+  <a href="https://i.imgur.com/Clzj7Xs.png" target="_blank">
+    <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" />
+  </a>
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
-
 
 <h2>Environments and Technologies Used</h2>
 
@@ -12,7 +13,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used</h2>
 
 - Windows 10 (21H2)
 
@@ -29,45 +30,39 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-
-
-
 <h3>Configure Roles (for grouping permissions)</h3>
-<iframe width="396" height="361" src="https://www.youtube.com/embed/J0IAWFgxjSQ" title="osTickets Roles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=J0IAWFgxjSQ" target="_blank">Click here to watch the video</a>  
+<br />
+<img src="https://img.youtube.com/vi/J0IAWFgxjSQ/0.jpg" alt="Configure Roles Thumbnail" width="50%" />
 
 <h3>Configure Departments (for grouping permissions)</h3>
-<iframe width="436" height="245" src="https://www.youtube.com/embed/JqwatCU4EqU" title="Configure Database" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<a href="https://www.youtube.com/watch?v=JqwatCU4EqU" target="_blank">Click here to watch the video</a>  
+<br />
+<img src="https://img.youtube.com/vi/JqwatCU4EqU/0.jpg" alt="Configure Departments Thumbnail" width="50%" />
 
 <h3>Configure Agents</h3>
 <p>
-  <img src="https://s7.ezgif.com/tmp/ezgif-7-cc24f5d579.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <a href="https://s7.ezgif.com/tmp/ezgif-7-cc24f5d579.gif" target="_blank">
+    <img src="https://s7.ezgif.com/tmp/ezgif-7-cc24f5d579.gif" height="80%" width="80%" alt="Disk Sanitization Steps" />
+  </a>
 </p>
 
-<h3> Configure Teams</h3>
- <img src="https://s6.ezgif.com/tmp/ezgif-6-4613958a27.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-  
-  <h3>Configure Users</h3>
-<iframe width="396" height="361" src="https://www.youtube.com/embed/IRuOkFk-tJE" title="Add Users" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-  To configure Service Level Agreements (SLA), go to Admin Panel -> Manage -> SLA. For example, create SLA categories like:
-  - Sev-A: Grace Period: 1 hour, Schedule: 24/7
-  - Sev-B: Grace Period: 4 hours, Schedule: 24/7
-  - Sev-C: Grace Period: 8 hours, Business Hours
-</p>
+<h3>Configure Teams</h3>
+<a href="https://www.youtube.com/watch?v=jhXVApJrsto" target="_blank">Click here to watch the video</a>  
 <br />
+<img src="https://img.youtube.com/vi/jhXVApJrsto/0.jpg" alt="Configure Teams Thumbnail" width="50%" />
 
-<p>
-  <img src="https://s6.ezgif.com/tmp/ezgif-6-51c91bf8ff.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  To configure Help Topics for when users create a ticket, go to Admin Panel -> Manage -> Help Topics. You can set up categories like:
-  - Business Critical Outage
-  - Personal Computer Issues
-  - Equipment Request
-  - Password Reset
-  - Other
-</p>
+<h3>Configure Users</h3>
+<a href="https://www.youtube.com/watch?v=IRuOkFk-tJE" target="_blank">Click here to watch the video</a>  
 <br />
+<img src="https://img.youtube.com/vi/IRuOkFk-tJE/0.jpg" alt="Configure Users Thumbnail" width="50%" />
+
+<h3>Configure Service Level Agreements (SLA)</h3>
+<a href="https://www.youtube.com/watch?v=fGUPBucEu9Q" target="_blank">Click here to watch the video</a>  
+<br />
+<img src="https://img.youtube.com/vi/fGUPBucEu9Q/0.jpg" alt="Configure SLA Thumbnail" width="50%" />
+
+<h3>Configure Help Topics</h3>
+<a href="https://www.youtube.com/watch?v=_1cg-9NKU8g" target="_blank">Click here to watch the video</a>  
+<br />
+<img src="https://img.youtube.com/vi/_1cg-9NKU8g/0.jpg" alt="Configure Help Topics Thumbnail" width="50%" />
