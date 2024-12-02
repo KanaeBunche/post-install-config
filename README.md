@@ -33,14 +33,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <h3>Configure Roles (for grouping permissions)</h3>
-<p>
-  <img src="https://s6.ezgif.com/tmp/ezgif-6-99cfdd78d1-poster.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<iframe width="396" height="361" src="https://www.youtube.com/embed/J0IAWFgxjSQ" title="osTickets Roles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3>Configure Departments (for grouping permissions)</h3>
-<p>
-  <img src="https://s7.ezgif.com/tmp/ezgif-7-23ca3dc135.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<iframe width="436" height="245" src="https://www.youtube.com/embed/JqwatCU4EqU" title="Configure Database" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <h3>Configure Agents</h3>
@@ -54,9 +50,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   
   <h3>Configure Users</h3>
-<p>
-  <img src="https://s7.ezgif.com/tmp/ezgif-7-ff76ada86a.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<iframe width="396" height="361" src="https://www.youtube.com/embed/IRuOkFk-tJE" title="Add Users" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   To configure Service Level Agreements (SLA), go to Admin Panel -> Manage -> SLA. For example, create SLA categories like:
   - Sev-A: Grace Period: 1 hour, Schedule: 24/7
